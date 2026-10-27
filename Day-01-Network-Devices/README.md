@@ -42,3 +42,13 @@ computers and servers across multiple locations.
 I also gained experience identifying the
 networking equipment needed to establish
 connections between different networks.
+
+## Network Topology
+
+The screenshot below shows my completed Day 1
+network topology in Cisco Packet Tracer.
+
+The topology includes client devices at the
+New York branch and servers at the Tokyo branch.
+
+![Day 1 Network Topology](Screenshot%202026-10-27%20153839.png)
