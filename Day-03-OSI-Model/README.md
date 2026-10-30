@@ -15,6 +15,17 @@ I also performed additional networking experiments using Windows Command Prompt 
 ---
 
 ## Part 1 - Packet Tracer Lab
+### Packet Tracer Lab Screenshots
+
+**Network Topology and Protocol Simulation**
+
+![Packet Tracer ARP and ICMP Simulation](Screenshot%202026-10-30%20162509.png)
+
+**PC1 Command Prompt and Successful Ping Test**
+
+![Packet Tracer PC1 Ping Test](Screenshot%202026-10-30%20160523%281%29.png)
+
+
 
 ### Objective
 
@@ -53,6 +64,33 @@ STP is a Layer 2 protocol that helps prevent switching loops in networks with re
 ---
 
 ## Part 2 - Independent Networking Experiments
+### Command Prompt Experiment Screenshots
+
+#### 1. Traceroute to Nike and DNS Lookup
+
+![Nike Traceroute and DNS Lookup](Screenshot%202026-10-30%20162325.png)
+
+This screenshot shows a traceroute to nike.com and a DNS lookup for discord.com. The traceroute demonstrates how packets travel through multiple routers before reaching their destination.
+
+#### 2. Traceroute Without DNS Resolution
+
+![Traceroute Without DNS](Screenshot%202026-10-30%20162337.png)
+
+Using the -d option with tracert displays router IP addresses without performing reverse DNS lookups. This makes it easier to focus on the IP addresses and routing path.
+
+#### 3. Comparing IPv4 and IPv6 Traceroutes
+
+![IPv4 and IPv6 Traceroutes](Screenshot%202026-10-30%20162350.png)
+
+This screenshot compares IPv4 and IPv6 traceroutes to resurgens.com. The results demonstrate differences in addressing formats and the paths packets can take across the Internet.
+
+#### 4. Additional Network Troubleshooting
+
+![Network Troubleshooting Experiments](Screenshot%202026-10-30%20162309.png)
+
+I also experimented with additional commands, including reverse DNS lookups, attempting to ping a MAC address, and tracing a private IPv4 address.
+
+These experiments helped me understand that ping normally requires an IP address or hostname rather than a MAC address, and that private IP addresses are not directly routable across the public Internet.
 
 After completing the TCP/IP and OSI model lessons, I experimented with networking commands on my personal computer to better understand how devices communicate across the Internet.
 
@@ -146,4 +184,10 @@ The Packet Tracer simulation helped me visualize these processes, while the Comm
 
 ## Conclusion
 
-This lab strengthened my understanding of the TCP/IP and OSI models, network
+This lab strengthened my understanding of the TCP/IP and OSI models, network.
+
+
+
+
+
+
