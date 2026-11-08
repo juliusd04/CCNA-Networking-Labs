@@ -140,6 +140,7 @@ This helped me become more comfortable identifying and correcting Cisco IOS comm
 
 This lab introduced me to basic Cisco IOS administration and security configuration. I gained hands-on experience navigating the CLI, configuring passwords, examining device settings, and saving configurations.
 
+
 ## Lab Screenshots
 
 ### 1. Initial Switch Configuration
@@ -150,27 +151,28 @@ Configured the switch hostname and privileged EXEC password using Cisco IOS.
 
 ### 2. Password Encryption
 
-![Password Encryption](Screenshot%202026-11-02%20140030%281%29.png)
+![Password Encryption](Screenshot%202026-11-02%20140030.png)
 
 Enabled password encryption and verified the configuration.
 
 ### 3. Privileged EXEC Mode
 
-![Privileged EXEC Mode](Screenshot%202026-11-02%20140210%281%29.png)
+![Privileged EXEC Mode](Screenshot%202026-11-02%20140210.png)
 
 Accessed privileged EXEC mode and examined the running configuration.
 
 ### 4. Saving Configuration Changes
 
-![Saving Configuration](Screenshot%202026-11-02%20140356%281%29.png)
+![Saving Configuration](Screenshot%202026-11-02%20140356.png)
 
 Used `write memory` and `copy running-config startup-config` to save changes.
 
 ### 5. Startup Configuration Verification
 
-![Startup Configuration](Screenshot%202026-11-02%20140423%281%29.png)
+![Startup Configuration](Screenshot%202026-11-02%20140423.png)
 
 Verified that the configuration was saved using `show startup-config`.
+
 
 
 These skills provide a foundation for more advanced networking and cybersecurity tasks, including secure device management, network troubleshooting, and access control.
